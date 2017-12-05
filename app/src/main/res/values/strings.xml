@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="product_id" />
+    <string name="not_assigned" />
+    <string name="product_name" />
+    <string name="product_quantity" />
+    <string name="add" />
+    <string name="find" />
+    <string name="delete" />
+</resources>
